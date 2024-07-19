@@ -1,1 +1,1 @@
-# char
+# Example of README
